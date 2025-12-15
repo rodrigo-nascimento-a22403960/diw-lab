@@ -1,0 +1,12 @@
+[
+  { "title": "HTML", "image": "file.svg", "description": "Linguagem de marcação utilizada para estruturar páginas web.", "rating": 4 },
+  { "title": "CSS", "image": "window.svg", "description": "Folhas de estilo responsáveis pela aparência e layout das páginas.", "rating": 4 },
+  { "title": "JavaScript", "image": "javascript-file.svg", "description": "Linguagem de programação que adiciona interatividade ao frontend.", "rating": 5 },
+  { "title": "TypeScript", "image": "typescript.svg", "description": "JavaScript com tipagem, mais seguro e escalável.", "rating": 4 },
+  { "title": "Tailwind CSS", "image": "tailwind.svg", "description": "Framework CSS utilitária para criar interfaces rapidamente.", "rating": 4 },
+  { "title": "GitHub", "image": "github.svg", "description": "Plataforma para alojar e colaborar em código com Git.", "rating": 4 },
+  { "title": "API RESTful", "image": "globe.svg", "description": "Comunicação entre cliente e servidor por endpoints.", "rating": 4 },
+  { "title": "React", "image": "react.svg", "description": "Biblioteca para construir interfaces baseadas em componentes.", "rating": 5 },
+  { "title": "Next.js", "image": "next.svg", "description": "Framework React com rotas e otimizações.", "rating": 5 },
+  { "title": "Vercel", "image": "vercel.svg", "description": "Deploy rápido para projetos Next.js.", "rating": 4 }
+]
